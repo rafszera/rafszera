@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael e atuamente sou estudante de Back-end 😁
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
 
 
 ### ʟ͟ᴀ͟ɴ͟ɢ͟ᴜ͟ᴀ͟ɢ͟ᴇ͟s͟:͟
